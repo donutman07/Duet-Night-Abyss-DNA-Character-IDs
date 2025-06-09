@@ -17,6 +17,7 @@
 | 3102 | 023 | Hilda | Xier, Xierda |
 | 3103 | 017 | Yale and Oliver | Yeer |
 | 3201 | 006 | Hellfire | Haier, Haierfa |
+| 3202 | 014 | Camilla | Kami, Kamila |
 | 3301 | 024 | Margie | Maer, Maerjie |
 | 4101 | 020 | Rhythm | Lise  |
 | 4102 | 029 | Zhiliu | Zhiliu |
@@ -30,7 +31,6 @@
 | 5401 | 026 | Daphne | Dafu, Dafunie |
 | ???? | 002 | Kaao | Kaaosi |
 | ???? | 013 | Moying | Moying |
-| ???? | 014 | Camilla | Kami, Kamila |
 | ???? | 022 | Jiaohuang | Jiaohuang  |
 | ???? | 027 | | |
 | ???? | 028 | Katya | Kajia |
