@@ -2,7 +2,8 @@
 
 | ID | MODEL ID | NAME | CODENAME |
 | :--: | :--: | :--:| :--:|
-| 1101 | 001 | Berenica | Heitao|
+| 1101 | 001 | Berenica | Heitao |
+| 1102 | 016 | Flora | Fuluo |
 | 1103 | 025 | Phantasio | Tuosi, Tuosika |
 | 1501 | 007 | Lisbell | Baonu |
 | 1502 | 031 | Lady Nifle | Nifu, Nifuer |
@@ -29,7 +30,6 @@
 | ???? | 002 | Kaao | Kaaosi |
 | ???? | 013 | Moying | Moying |
 | ???? | 014 | Camilla | Kami, Kamila |
-| ???? | 016 | Flora | Fuluo |
 | ???? | 022 | Jiaohuang | Jiaohuang  |
 | ???? | 027 | | |
 | ???? | 028 | Katya | Kajia |
