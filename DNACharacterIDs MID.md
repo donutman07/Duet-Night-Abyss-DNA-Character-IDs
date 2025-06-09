@@ -33,5 +33,6 @@
 | 029 | 4102 | Zhiliu | Zhiliu |
 | 030 | 1503 | Kezhou | Kezhou |
 | 031 | 1502 | Lady Nifle | Nifu, Nifuer |
+| 032 | ???? | | Suyi |
 | ??? | 1104 | | Qiuxian |
 | ??? | ???? | Saite | Has Voicelines |
