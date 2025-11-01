@@ -5,12 +5,18 @@
 | 1101 | 001 | Berenica | Heitao |
 | 1102 | 016 | Flora | Fuluo |
 | 1103 | 025 | Phantasio | Tuosi, Tuosika |
-| 1104 | ??? | | Qiuxian |
+| 1104 | 033 | Mr Qiu | Qiuxian |
+| 1201 | ??? | Phoxhunter (Umbro) | Nvzhu |
+| 1202 | ??? | Falu | Falu |
 | 1501 | 007 | Lisbell | Baonu |
 | 1502 | 031 | Lady Nifle | Nifu, Nifuer |
-| 1503 | 030 | Kezhou | Kezhou|
+| 1503 | 030 | Kezhou | Kezhou |
+| 1504 | 032 | Su Yi | Suyi |
+| 1505 | 037 | Lizi | Lizi |
+| 1601 | ??? | Phoxhunter (Lumino) | Nvzhu |
 | 1801 | 019 | Fina | Feina |
 | 2101 | 005 | Rebecca | Shuimu |
+| 2102 | 035 | Yvaine | Eve |
 | 2301 | 004 | Tabethe | Zhangyu |
 | 2401 | 015 | Fushu | Baiheng |
 | 3101 | 011 | Lynn | Linen |
@@ -19,21 +25,23 @@
 | 3201 | 006 | Hellfire | Haier, Haierfa |
 | 3202 | 014 | Camilla | Kami, Kamila |
 | 3301 | 024 | Margie | Maer, Maerjie |
+| 4101 | 007 | Lisebell (Old) | Baonu |
 | 4101 | 020 | Rhythm | Lise  |
 | 4102 | 029 | Zhiliu | Zhiliu |
 | 4201 | 008 | Yuming | Yuming |
 | 4202 | 012 | Randy | Landi |
 | 4301 | 009 | Sibylle | Xibi, Xibier |
 | 5101 | 021 | Truffle and Filbert | Songlu |
-| 5102 | 018 | Outsider| Aotesaide, Aote |
+| 5102 | 018 | Outsider | Aotesaide, Aote |
 | 5301 | 010 | Psyche | Saiqi |
 | 5401 | 003 | Daphne (Old) | Dafu, Dafunie |
 | 5401 | 026 | Daphne | Dafu, Dafunie |
+| 5402 | 034 | Lilikou | Lilikou |
+| 9999 | ??? | Operations Team | Likely Dev |
 | ???? | 002 | Kaao | Kaaosi |
 | ???? | 013 | Moying | Moying |
-| ???? | 022 | Jiaohuang | Jiaohuang  |
+| ???? | 022 | ??? | Jiaohuang  |
 | ???? | 027 | | |
 | ???? | 028 | Katya | Kajia |
-| ???? | 032 | | Suyi |
-| ???? | ??? | Saite | Has Voicelines |
-
+| ??? | ???? | Tal | Taer | 
+| ??? | ???? | Saite | Has Voicelines |
