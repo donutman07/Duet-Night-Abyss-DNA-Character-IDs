@@ -3,11 +3,12 @@
 | MODEL ID | ID  | NAME | CODENAME |
 | :--: | :--: | :--: | :--: |
 | 001 | 1101 | Berenica | Heitao |
-| 002 | ???? | Kaao | Kaaosi |
+| 002 | ???? | Chaos | Kaaosi, Kaao |
 | 003 | 5401 | Daphne (Old) | Dafu, Dafunie |
 | 004 | 2301 | Tabethe | Zhangyu |
 | 005 | 2101 | Rebecca | Shuimu |
 | 006 | 3201 | Hellfire | Haier, Haierfa |
+| 007 | 4101 | Lisebell (Old) | Baonu |
 | 007 | 1501 | Lisbell | Baonu |
 | 008 | 4201 | Yuming | Yuming |
 | 009 | 4301 | Sibylle | Xibi, Xibier |
@@ -23,7 +24,7 @@
 | 019 | 1801 | Fina | Feina |
 | 020 | 4101 | Rhythm | Lise |
 | 021 | 5101 | Truffle and Filbert | Songlu |
-| 022 | ???? | Jiaohuang | Jiaohuang |
+| 022 | ???? | ??? | Jiaohuang |
 | 023 | 3102 | Hilda | Xier, Xierda |
 | 024 | 3301 | Margie | Maer, Maerjie |
 | 025 | 1103 | Phantasio | Tuosi, Tuosika |
@@ -33,6 +34,13 @@
 | 029 | 4102 | Zhiliu | Zhiliu |
 | 030 | 1503 | Kezhou | Kezhou |
 | 031 | 1502 | Lady Nifle | Nifu, Nifuer |
-| 032 | ???? | | Suyi |
-| ??? | 1104 | | Qiuxian |
+| 032 | 1504 | Su Yi | Suyi |
+| 033 | 1104 | Mr Qiu | Qiuxian |
+| 034 | 5402 | Lirico | Lilikou |
+| 035 | 2102 | Yvaine | Eve |
+| 036 | ???? | | | 
+| 037 | 1505 | Lizi | Lizi |
+| ??? | 1601 | Phoxhunter (Lumino) | Nvzhu |
+| ??? | 1201 | Phoxhunter (Umbro) | Nvzhu |
+| ??? | ???? | Tal | Taer | 
 | ??? | ???? | Saite | Has Voicelines |
