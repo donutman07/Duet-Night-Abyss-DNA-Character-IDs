@@ -38,7 +38,7 @@
 | 5401 | 026 | Daphne | Dafu, Dafunie |
 | 5402 | 034 | Lilikou | Lilikou |
 | 9999 | ??? | Operations Team | Likely Dev |
-| ???? | 002 | Kaao | Kaaosi |
+| ???? | 002 | Chaos | Kaaosi, Kaao |
 | ???? | 013 | Moying | Moying |
 | ???? | 022 | ??? | Jiaohuang  |
 | ???? | 027 | | |
