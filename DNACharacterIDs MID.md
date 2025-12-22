@@ -35,11 +35,15 @@
 | 030 | 1503 | Kezhou | Kezhou |
 | 031 | 1502 | Lady Nifle | Nifu, Nifuer |
 | 032 | 1504 | Su Yi | Suyi |
-| 033 | 1104 | Mr Qiu | Qiuxian |
+| 033 | 1104 | Mr Qiu | Qiuxian, Qiu |
 | 034 | 5402 | Lirico | Lilikou |
 | 035 | 2102 | Yvaine | Eve |
 | 036 | ???? | | | 
-| 037 | 1505 | Lizi | Lizi |
+| 037 | 1505 | Lizi | Lizi, SpBaonu |
+| 096 | Skin | Fushu | |
+| 097 | Skin | Rebecca | |
+| 098 | Skin | Psyche | |
+| 099 | Skin | Truffle and Filbert | |
 | ??? | 1601 | Phoxhunter (Lumino) | Nvzhu |
 | ??? | 1201 | Phoxhunter (Umbro) | Nvzhu |
 | ??? | ???? | Tal | Taer | 
