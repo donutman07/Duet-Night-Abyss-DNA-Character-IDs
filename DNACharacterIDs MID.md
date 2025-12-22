@@ -40,11 +40,11 @@
 | 035 | 2102 | Yvaine | Eve |
 | 036 | ???? | | | 
 | 037 | 1505 | Lizi | Lizi, SpBaonu |
-| 096 | Skin | Fushu | |
-| 097 | Skin | Rebecca | |
-| 098 | Skin | Psyche | |
-| 099 | Skin | Truffle and Filbert | |
 | ??? | 1601 | Phoxhunter (Lumino) | Nvzhu |
 | ??? | 1201 | Phoxhunter (Umbro) | Nvzhu |
 | ??? | ???? | Tal | Taer | 
 | ??? | ???? | Saite | Has Voicelines |
+| 096 | Skin | Fushu | |
+| 097 | Skin | Rebecca | |
+| 098 | Skin | Psyche | |
+| 099 | Skin | Truffle and Filbert | |
