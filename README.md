@@ -3,3 +3,5 @@ all dna character ids
 
 "ID" is listed as ids first
 "MID" is listed as model ids first
+
+12/22/25: updated to 1.1
