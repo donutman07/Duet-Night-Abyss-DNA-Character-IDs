@@ -5,7 +5,7 @@
 | 1101 | 001 | Berenica | Heitao |
 | 1102 | 016 | Flora | Fuluo |
 | 1103 | 025 | Phantasio | Tuosi, Tuosika |
-| 1104 | 033 | Mr Qiu | Qiuxian |
+| 1104 | 033 | Mr Qiu | Qiuxian, Qiu |
 | 1201 | ??? | Phoxhunter (Umbro) | Nvzhu |
 | 1202 | ??? | Falu | Falu |
 | 1501 | 007 | Lisbell | Baonu |
@@ -45,3 +45,7 @@
 | ???? | 028 | Katya | Kajia |
 | ??? | ???? | Tal | Taer | 
 | ??? | ???? | Saite | Has Voicelines |
+| Skin | 096 | Fushu | |
+| Skin | 097 | Rebecca | |
+| Skin | 098 | Psyche | |
+| Skin | 099 | Truffle and Filbert | |
