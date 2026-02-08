@@ -42,9 +42,12 @@
 | 037 | 1505 | Lizi | Lizi, SpBaonu |
 | ??? | 1601 | Phoxhunter (Lumino) | Nvzhu |
 | ??? | 1201 | Phoxhunter (Umbro) | Nvzhu |
+| ??? | 1202 | Falsi | Falu |
+| ??? | ???? | Eleutheria | ??? |
 | ??? | ???? | Tal | Taer | 
-| ??? | ???? | Saite | Has Voicelines |
-| 096 | Skin | Fushu | |
-| 097 | Skin | Rebecca | |
-| 098 | Skin | Psyche | |
-| 099 | Skin | Truffle and Filbert | |
+| ??? | ???? | Seth | Saite |
+| ??? | ???? | Vergilius | Weiji, Weijier |
+| Skin | 096 | Fushu | Baiheng01 |
+| Skin | 097 | Rebecca | Shuimu01 |
+| Skin | 098 | Psyche | Saiqi01 |
+| Skin | 099 | Truffle and Filbert | Songlu01 |
