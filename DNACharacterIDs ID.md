@@ -7,12 +7,12 @@
 | 1103 | 025 | Phantasio | Tuosi, Tuosika |
 | 1104 | 033 | Mr Qiu | Qiuxian, Qiu |
 | 1201 | ??? | Phoxhunter (Umbro) | Nvzhu |
-| 1202 | ??? | Falu | Falu |
+| 1202 | ??? | Falsi | Falu |
 | 1501 | 007 | Lisbell | Baonu |
 | 1502 | 031 | Lady Nifle | Nifu, Nifuer |
 | 1503 | 030 | Kezhou | Kezhou |
 | 1504 | 032 | Su Yi | Suyi |
-| 1505 | 037 | Lizi | Lizi |
+| 1505 | 037 | Lizi | Lizi, SpBaonu |
 | 1601 | ??? | Phoxhunter (Lumino) | Nvzhu |
 | 1801 | 019 | Fina | Feina |
 | 2101 | 005 | Rebecca | Shuimu |
@@ -36,16 +36,18 @@
 | 5301 | 010 | Psyche | Saiqi |
 | 5401 | 003 | Daphne (Old) | Dafu, Dafunie |
 | 5401 | 026 | Daphne | Dafu, Dafunie |
-| 5402 | 034 | Lilikou | Lilikou |
+| 5402 | 034 | Lirico | Lilikou |
 | 9999 | ??? | Operations Team | Likely Dev |
 | ???? | 002 | Chaos | Kaaosi, Kaao |
 | ???? | 013 | Moying | Moying |
 | ???? | 022 | ??? | Jiaohuang  |
 | ???? | 027 | | |
 | ???? | 028 | Katya | Kajia |
+| ??? | ???? | Eleutheria | ??? |
 | ??? | ???? | Tal | Taer | 
-| ??? | ???? | Saite | Has Voicelines |
-| Skin | 096 | Fushu | |
-| Skin | 097 | Rebecca | |
-| Skin | 098 | Psyche | |
-| Skin | 099 | Truffle and Filbert | |
+| ??? | ???? | Seth | Saite |
+| ??? | ???? | Vergilius | Weiji, Weijier |
+| Skin | 096 | Fushu | Baiheng01 |
+| Skin | 097 | Rebecca | Shuimu01 |
+| Skin | 098 | Psyche | Saiqi01 |
+| Skin | 099 | Truffle and Filbert | Songlu01 |
