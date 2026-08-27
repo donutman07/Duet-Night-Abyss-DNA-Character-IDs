@@ -17,6 +17,8 @@
 | 1801 | 019 | Fina | Feina |
 | 2101 | 005 | Rebecca | Shuimu |
 | 2102 | 035 | Yvaine | Eve |
+| 2103 | 039 | Eleutheria | Ailiu |
+| 2201 | ??? | Phoxhunter (Hydro) | WEita |
 | 2301 | 004 | Tabethe | Zhangyu |
 | 2401 | 015 | Fushu | Baiheng |
 | 3101 | 011 | Lynn | Linen |
@@ -43,11 +45,13 @@
 | ???? | 022 | ??? | Jiaohuang  |
 | ???? | 027 | | |
 | ???? | 028 | Katya | Kajia |
-| ??? | ???? | Eleutheria | ??? |
-| ??? | ???? | Tal | Taer | 
-| ??? | ???? | Seth | Saite |
-| ??? | ???? | Vergilius | Weiji, Weijier |
+| ???? | 039 | SpLise |
+| ???? | ??? | Tal | Taer | 
+| ???? | ??? | Seth | Saite |
+| ???? | ??? | Vergilius | Weiji, Weijier |
 | Skin | 096 | Fushu | Baiheng01 |
 | Skin | 097 | Rebecca | Shuimu01 |
 | Skin | 098 | Psyche | Saiqi01 |
 | Skin | 099 | Truffle and Filbert | Songlu01 |
+| Skin | 100 | Rhythm | Lise01 |
+| Skin | 101 | Fina | Feina01 |
