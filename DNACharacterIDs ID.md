@@ -16,7 +16,7 @@
 | 1601 | ??? | Phoxhunter (Lumino) | Nvzhu |
 | 1801 | 019 | Fina | Feina |
 | 2101 | 005 | Rebecca | Shuimu |
-| 2102 | 035 | Yvaine | Eve |
+| 2102 | 035 | Ada | Eve, Yvaine |
 | 2103 | 039 | Eleutheria | Ailiu |
 | 2201 | ??? | Phoxhunter (Hydro) | WEita |
 | 2301 | 004 | Tabethe | Zhangyu |
