@@ -37,9 +37,10 @@
 | 032 | 1504 | Su Yi | Suyi |
 | 033 | 1104 | Mr Qiu | Qiuxian, Qiu |
 | 034 | 5402 | Lirico | Lilikou |
-| 035 | 2102 | Yvaine | Eve |
+| 035 | 2102 | Ada | Eve, Yvaine |
 | 036 | ???? | | | 
 | 037 | 1505 | Lizi | Lizi, SpBaonu |
+| 039 | ???? | SpLise |
 | ??? | 1601 | Phoxhunter (Lumino) | Nvzhu |
 | ??? | 1201 | Phoxhunter (Umbro) | Nvzhu |
 | ??? | 1202 | Falsi | Falu |
